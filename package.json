@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "wrangler": "^3.78.5"
+  },
+  "scripts": {
+    "wr": "wrangler"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.2",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  }
+}
